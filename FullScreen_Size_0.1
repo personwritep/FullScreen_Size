@@ -7,8 +7,8 @@
 // @match        https://*/*
 // @noframes
 // @grant        none
-// @updateURL        https://github.com/personwritep/FullScreen_Check/raw/main/FullScreen_Size.user.js
-// @downloadURL        https://github.com/personwritep/FullScreen_Check/raw/main/FullScreen_Size.user.js
+// @updateURL        https://github.com/personwritep/FullScreen_Size/raw/main/FullScreen_Size.user.js
+// @downloadURL        https://github.com/personwritep/FullScreen_Size/raw/main/FullScreen_Size.user.js
 // ==/UserScript==
 
 
